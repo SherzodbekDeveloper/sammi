@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/omilxanov/Desktop/sammi.ac/app/layout\":[\"static/media/4ed9083a1550acb8-s.p.woff2\",\"static/media/6905431624c34d00-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

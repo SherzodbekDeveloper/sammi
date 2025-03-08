@@ -1,0 +1,5 @@
+{
+  "/(root)/contact/page": "app/(root)/contact/page.js",
+  "/(root)/blogs/page": "app/(root)/blogs/page.js",
+  "/(root)/blogs/[slug]/page": "app/(root)/blogs/[slug]/page.js"
+}
